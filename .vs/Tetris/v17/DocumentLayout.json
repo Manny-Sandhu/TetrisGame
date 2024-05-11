@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\TestrisGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\TestrisGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Gameboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Gameboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\TestSuite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\TestSuite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\TetrisGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\TetrisGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Tetromino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Tetromino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Gameboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Gameboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\GridTetromino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\GridTetromino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\GridTetromino.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\GridTetromino.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Tetromino.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Tetromino.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Tetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98C1B098-DBFA-4B79-B8C7-BD1330C8B387}|Tetris\\Tetris.vcxproj|solutionrelative:Tetris\\Tetris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gameboard.cpp",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Gameboard.cpp",
+              "RelativeDocumentMoniker": "Tetris\\Gameboard.cpp",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Gameboard.cpp",
+              "RelativeToolTip": "Tetris\\Gameboard.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T02:26:45.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tetromino.cpp",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Tetromino.cpp",
+              "RelativeDocumentMoniker": "Tetris\\Tetromino.cpp",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Tetromino.cpp",
+              "RelativeToolTip": "Tetris\\Tetromino.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T02:26:45.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestrisGame.cpp",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\TestrisGame.cpp",
+              "RelativeDocumentMoniker": "Tetris\\TestrisGame.cpp",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\TestrisGame.cpp",
+              "RelativeToolTip": "Tetris\\TestrisGame.cpp",
+              "ViewState": "AQIAAF0BAAAAAAAAAAAAAEsBAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T02:26:45.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TetrisGame.h",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\TetrisGame.h",
+              "RelativeDocumentMoniker": "Tetris\\TetrisGame.h",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\TetrisGame.h",
+              "RelativeToolTip": "Tetris\\TetrisGame.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T02:26:45.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gameboard.h",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Gameboard.h",
+              "RelativeDocumentMoniker": "Tetris\\Gameboard.h",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Gameboard.h",
+              "RelativeToolTip": "Tetris\\Gameboard.h",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T02:26:45.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tetromino.h",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Tetromino.h",
+              "RelativeDocumentMoniker": "Tetris\\Tetromino.h",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Tetromino.h",
+              "RelativeToolTip": "Tetris\\Tetromino.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T02:26:45.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tetris.cpp",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Tetris.cpp",
+              "RelativeDocumentMoniker": "Tetris\\Tetris.cpp",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Tetris.cpp",
+              "RelativeToolTip": "Tetris\\Tetris.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T02:26:45.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Main.cpp",
+              "RelativeDocumentMoniker": "Tetris\\Main.cpp",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\Main.cpp",
+              "RelativeToolTip": "Tetris\\Main.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T02:26:46.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GridTetromino.cpp",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\GridTetromino.cpp",
+              "RelativeDocumentMoniker": "Tetris\\GridTetromino.cpp",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\GridTetromino.cpp",
+              "RelativeToolTip": "Tetris\\GridTetromino.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T02:26:45.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GridTetromino.h",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\GridTetromino.h",
+              "RelativeDocumentMoniker": "Tetris\\GridTetromino.h",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\GridTetromino.h",
+              "RelativeToolTip": "Tetris\\GridTetromino.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T02:26:45.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestSuite.h",
+              "DocumentMoniker": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\TestSuite.h",
+              "RelativeDocumentMoniker": "Tetris\\TestSuite.h",
+              "ToolTip": "C:\\Users\\manin\\OneDrive - Camosun College\\ICS 214\\Lab8\\Tetris\\Tetris\\TestSuite.h",
+              "RelativeToolTip": "Tetris\\TestSuite.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-06T02:26:45.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
